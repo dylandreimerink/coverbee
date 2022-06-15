@@ -1,4 +1,5 @@
 # CoverBee
+[![Go Reference](https://pkg.go.dev/badge/github.com/dylandreimerink/coverbee.svg)](https://pkg.go.dev/github.com/dylandreimerink/coverbee)
 
 Code coverage collection tool for eBPF programs. CoverBee can instrument already compiled eBPF programs by giving it
 an ELF file. This allows for coverage testing without modifying the existing toolchain.
